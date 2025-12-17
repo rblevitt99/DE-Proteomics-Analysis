@@ -1,1 +1,1 @@
-# DE-Proteomics-Analysis
+The purpose of this code is to aquire all differentially expressed proteins from the proteomics dataframe. Differential expression has a specfic threshold for this code. Upregulated proteins must meet a log2FC > 1 and have a p value < 0.05. Down regulated proteins must meet a log2FC < -1 and a p value < 0.05. 
